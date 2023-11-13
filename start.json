@@ -19,12 +19,12 @@
       {
 		"title":"Lampa",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/lampa.jpg",
-          "action": "link:http://lampa.nnmtv.site/"
+          "action": "link:http://lampa.mx/"
       },
       {
 		"title":"Lampa Lite",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/lampa_lite.jpg",
-          "action": "link:http://lamlit.nnmtv.site/"
+          "action": "link:http://lite.lampa.mx/"
       },
       {
 		"title":"Atodo",
@@ -112,11 +112,6 @@
          "action": "link:http://kpms.cc/"
       },
       {
-		"title":"Кинопаб v.2",
-            "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kpstv.png",
-            "action": "link:http://kpstv.nnmtv.site/index.html"
-      },
-      {
 		"title":"Youtube",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/youtube.jpg",
          "action": "link:http://www.youtube.com/tv#/"
@@ -152,11 +147,6 @@
             "action": "link:http://app.pxel.tv/"
       },
       {
-		"title":"Яндекс видео",
-            "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/yandex.jpg",
-            "action": "link:http://yandex.ru/video/tvapp/"
-      },
-      {
 		"title":"OVP",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/ovp.png",
          "action": "link:http://tsnakeman.net.ua/lg/"
@@ -172,19 +162,9 @@
           "action": "link:http://vewd.webvideocaster.com/"
       },
       {
-		"title":"Rutube",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/rutube.png",
-          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
-      },
-      {
 		"title":"RE! Music",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/remusic.png",
          "action": "link:http://tvsam-02.ext.dc3.dailymotion.com/tvapps/dm_editor/app/index.php?id=098158d48c9e6edd&player=html5#fxm"
-      },
-      {
-		"title":"Смотрим",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/smotrim.png",
-          "action": "link:http://tv.rutv.ru/"
       },
       {
 		"title":"Radio Record",
@@ -205,11 +185,6 @@
 		"title":"Twitch",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/twitch.jpg",
          "action": "link:http://webos.tv.twitch.tv/"
-      },
-      {
-		"title":"Wifire TV",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/wifiretv.png",
-         "action": "link:http://lite.tv.ti.ru/storage/webos/"
       },
       {
 		"title":"SS-IPTV",
