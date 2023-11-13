@@ -47,12 +47,7 @@
          "action": "menu:request:interaction:init@http://moovies.fun/index.html"
       },
       {
-		"title":"ForkPlayer (RU)",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/forknew.png",
-         "action": "link:http://browser.appinfo.su/"
-      },
-      {
-		"title":"ForkPlayer (COM)",
+		"title":"ForkPlayer",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/forknew.png",
          "action": "link:http://browser.appfxml.com/"
       },
