@@ -22,11 +22,6 @@
           "action": "link:http://lampa.mx/"
       },
       {
-		"title":"Lampa Lite",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/lampa_lite.jpg",
-          "action": "link:http://lite.lampa.mx/"
-      },
-      {
 		"title":"Atodo",
          "image": "http://atodo.fun/assets/images/icon.png?v=0.1",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
