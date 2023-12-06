@@ -3,7 +3,7 @@
     "type": "list",
    "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "background": "https://raw.githubusercontent.com/nekto966/msx/main/img/bg.png", 
-  "headline": "NoName Media Station X App Store",
+  "headline": "NoName Media Station X App Store v.2",
   "version": "1.0.0",
   "parameter": "content:https://raw.githubusercontent.com/nekto966/msx/main/start.json",
   "action": "[settings:validate_links:0|home]", 
@@ -42,6 +42,11 @@
          "action": "menu:request:interaction:init@http://moovies.fun/index.html"
       },
       {
+		"title":"KinoBoom",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kb_msx_logo.png",
+         "action": "content:http://kb-team.club/msx/enter.php?welcome"
+      },
+      {
 		"title":"ForkPlayer",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/forknew.png",
          "action": "link:http://browser.appfxml.com/"
@@ -65,11 +70,6 @@
 		"title":"OTTplayer",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/ottplayer.png",
          "action": "link:http://widget.ottplayer.tv"
-      },
-      {
-		"title":"KinoBoom",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kb_msx_logo.png",
-         "action": "content:http://kb-team.club/msx/enter.php?welcome"
       },
       {
 		"title":"XSmart",
