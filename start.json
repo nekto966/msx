@@ -102,11 +102,6 @@
          "action": "link:http://kpms.cc/"
       },
       {
-		"title":"Кинопаб webosold",
-            "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kpstv.png",
-            "action": "link:https://raw.githubusercontent.com/nekto966/msx/main/index.html"
-      },
-      {
 		"title":"Youtube",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/youtube.jpg",
          "action": "link:http://www.youtube.com/tv#/"
