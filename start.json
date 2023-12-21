@@ -13,6 +13,7 @@
    "template": {
         "type": "separate",
       "layout": "0,0,2,3",
+      "alignment":"title-center",
       "color": "msx-glass"
    },
    "items": [
