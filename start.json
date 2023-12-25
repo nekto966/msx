@@ -78,6 +78,11 @@
          "action": "link:http://widget.ottplayer.tv"
       },
       {
+		"title":"ТВ каналы",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/iptv.png",
+         "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
+      },
+      {
 		"title":"XSmart",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/xsmart.png",
          "action": "link:http://app.xsmart.tv"
