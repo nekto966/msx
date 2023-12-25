@@ -3,7 +3,7 @@
     "type": "list",
    "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
   "background": "https://raw.githubusercontent.com/nekto966/msx/main/img/bg.png", 
-  "headline": "NoName Media Station X App Store v.2",
+  "headline": "NoName Media Station X v.2",
   "version": "1.0.0",
   "parameter": "content:https://raw.githubusercontent.com/nekto966/msx/main/start.json",
   "action": "[settings:validate_links:0|home]", 
@@ -48,7 +48,12 @@
          "action": "content:http://kb-team.club/msx/enter.php?welcome"
       },
       {
-		"title":"ForkPlayer",
+		"title":"ForkPlayer (RU)",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/forknew.png",
+         "action": "link:http://browser.appinfo.su/"
+      },
+      {
+		"title":"ForkPlayer (COM)",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/forknew.png",
          "action": "link:http://browser.appfxml.com/"
       },
@@ -105,7 +110,7 @@
       {
 		"title":"Кинопаб webosold",
             "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kpstv.png",
-            "action": "link:http://nnmtv.h1n.ru/kpstv/index.html"
+            "action": "link:http://msx.nnmtv.fun/msx/kpstv/index.html"
       },
       {
 		"title":"Youtube",
@@ -143,6 +148,11 @@
             "action": "link:http://app.pxel.tv/"
       },
       {
+		"title":"Яндекс видео",
+            "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/yandex.jpg",
+            "action": "link:http://yandex.ru/video/tvapp/"
+      },
+      {
 		"title":"OVP",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/ovp.png",
          "action": "link:http://tsnakeman.net.ua/lg/"
@@ -161,6 +171,16 @@
 		"title":"RE! Music",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/remusic.png",
          "action": "link:http://tvsam-02.ext.dc3.dailymotion.com/tvapps/dm_editor/app/index.php?id=098158d48c9e6edd&player=html5#fxm"
+      },
+      {
+		"title":"Rutube",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/rutube.png",
+          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
+      },
+      {
+		"title":"Смотрим",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/smotrim.png",
+          "action": "link:http://tv.rutv.ru/"
       },
       {
 		"title":"Radio Record",
