@@ -213,6 +213,11 @@
           "action": "link:http://app.ss-iptv.com/"
       },
       {
+		"title":"Концерты, шоу",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/clip.jpg",
+          "action": "menu:http://msx.nnmtv.fun/video/koncert.json"
+      },
+      {
 		"title":"WEB MSX HTTP",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/msx.jpg",
          "action": "link:http://msx.benzac.de?leave=1"
