@@ -2,7 +2,7 @@
   "name": "NoName Portal",
     "type": "list",
    "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-  "background": "https://raw.githubusercontent.com/nekto966/msx/main/img/ng.jpg", 
+  "background": "https://raw.githubusercontent.com/nekto966/msx/main/img/bg.png", 
   "headline": "NoName Media Station X v.2",
   "version": "1.0.0",
   "parameter": "content:https://raw.githubusercontent.com/nekto966/msx/main/start.json",
