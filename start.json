@@ -224,13 +224,14 @@
       },
       {
 		"title":"WEB MSX HTTP",
-         "image": "http://msx.nnmtv.fun/msx/img/clip.jpg",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/msx.jpg",
          "action": "link:http://msx.benzac.de?leave=1"
       },
       {
-		"title":"Telegram чат",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/telegram.jpg",
-          "action": "menu:https://raw.githubusercontent.com/nekto966/msx/main/tg.json"
+		"title":"Информация",
+            "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/inf.png",
+            "background": "https://raw.githubusercontent.com/nekto966/msx/main/img/nnm_inf.jpg",
+            "action": "audio: https://raw.githubusercontent.com/nekto966/msx/main/noname.mp3"
       }
    ]
 }
