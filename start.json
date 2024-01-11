@@ -83,6 +83,11 @@
          "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
       },
       {
+		"title":"Movielab (Тест)",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/movielab.png",
+          "action": "menu:https://movielab.fun/msx/menu.json"
+      },
+      {
 		"title":"KinoBoom",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kb_msx_logo.png",
          "action": "content:http://kb-team.club/msx/enter.php?welcome"
