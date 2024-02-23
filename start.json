@@ -233,6 +233,11 @@
          "action": "link:http://msx.benzac.de?leave=1"
       },
       {
+		"title":"Prisma (Тест)",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/prisma.png",
+         "action": "link:http://prisma.ws/"
+      },
+      {
 		"title":"Информация",
             "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/inf.png",
             "background": "https://raw.githubusercontent.com/nekto966/msx/main/img/nnm_inf.jpg",
