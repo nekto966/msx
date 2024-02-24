@@ -83,6 +83,11 @@
          "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
       },
       {
+		"title":"Prisma (Тест)",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/prisma.png",
+         "action": "link:https://prisma.ws/"
+      },
+      {
 		"title":"Movielab (Тест)",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/movielab.png",
           "action": "menu:https://movielab.fun/msx/menu.json"
@@ -121,11 +126,6 @@
 		"title":"Кинопаб",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kp.png",
          "action": "link:http://kpms.cc/"
-      },
-      {
-		"title":"Кинопаб webosold",
-            "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kpstv.png",
-            "action": "link:http://msx.nnmtv.fun/msx/kpstv/index.html"
       },
       {
 		"title":"Youtube",
@@ -231,11 +231,6 @@
 		"title":"WEB MSX HTTP",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/msx.jpg",
          "action": "link:http://msx.benzac.de?leave=1"
-      },
-      {
-		"title":"Prisma (Тест)",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/prisma.png",
-         "action": "link:https://prisma.ws/"
       },
       {
 		"title":"Информация",
