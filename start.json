@@ -24,12 +24,12 @@
       },
       {
 		"title":"Atodo",
-         "image": "http://atodo.fun/assets/images/icon.png?v=0.1",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
       },
       {
 		"title":"Atodo web",
-         "image": "http://atodo.fun/assets/images/icon.png?v=0.1",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/atodo.png",
           "action": "link:http://msx.atodo.fun/"
       },
       {
