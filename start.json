@@ -193,11 +193,6 @@
           "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       },
       {
-		"title":"Смотрим",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/smotrim.png",
-          "action": "link:http://tv.rutv.ru/"
-      },
-      {
 		"title":"Radio Record",
          "image": "http://www.radiorecord.ru/upload/stations_images/record_image600_gray_outline.png",
           "action": "content:http://radio.nnmtv.site/rr.json"
