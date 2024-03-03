@@ -83,12 +83,12 @@
          "action": "link:http://abvidaa.ru/"
       },
       {
-		"title":"Prisma (Тест)",
+		"title":"Prisma",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/prism.png",
          "action": "link:https://prisma.ws/"
       },
       {
-		"title":"Movielab (Тест)",
+		"title":"Movielab",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/movielab.png",
           "action": "menu:https://movielab.fun/msx/menu.json"
       },
