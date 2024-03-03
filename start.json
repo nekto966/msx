@@ -48,11 +48,6 @@
          "action": "menu:request:interaction:init@http://moovies.fun/index.html"
       },
       {
-		"title":"ForkPlayer (RU)",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/forknew.png",
-         "action": "link:http://browser.appinfo.su/"
-      },
-      {
 		"title":"ForkPlayer (COM)",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/forknew.png",
          "action": "link:http://browser.appfxml.com/"
@@ -81,6 +76,11 @@
 		"title":"ТВ каналы",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/iptv.png",
          "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
+      },
+      {
+		"title":"Akter Black",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/akterblack.jpg",
+         "action": "link:http://abvidaa.ru/"
       },
       {
 		"title":"Prisma (Тест)",
