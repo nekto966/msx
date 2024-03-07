@@ -218,9 +218,14 @@
           "action": "link:http://app.ss-iptv.com/"
       },
       {
+		"title":"Кинозал HD",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kino_hd.jpg",
+         "action": "menu:https://raw.githubusercontent.com/nekto966/msx/main/video/kinozal_hd.json"
+      },
+      {
 		"title":"Концерты, шоу",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/clip.jpg",
-          "action": "menu:http://msx.nnmtv.fun/video/koncert.json"
+          "action": "menu:https://raw.githubusercontent.com/nekto966/msx/main/video/koncert.json"
       },
       {
 		"title":"WEB MSX HTTP",
