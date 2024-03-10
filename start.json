@@ -188,14 +188,14 @@
          "action": "link:http://tvsam-02.ext.dc3.dailymotion.com/tvapps/dm_editor/app/index.php?id=098158d48c9e6edd&player=html5#fxm"
       },
       {
-		"title":"Смотрим",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/smotrim.png",
-          "action": "link:https://tv.smotrim.ru/"
-      },
-      {
 		"title":"Rutube",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/rutube.png",
           "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
+      },
+      {
+		"title":"Смотрим",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/smotrim.png",
+          "action": "link:https://tv.smotrim.ru/"
       },
       {
 		"title":"Radio Record",
