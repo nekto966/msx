@@ -200,7 +200,7 @@
       {
 		"title":"Radio Record",
          "image": "http://www.radiorecord.ru/upload/stations_images/record_image600_gray_outline.png",
-          "action": "content:https://raw.githubusercontent.com/nekto966/msx/main/radio/rr.json"
+          "action": "content:https://nnmtv.github.io/msx/radio/rr.json"
       },
       {
 		"title":"myTuner",
