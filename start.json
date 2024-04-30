@@ -73,6 +73,11 @@
          "action": "link:http://widget.ottplayer.tv"
       },
       {
+		"title":"Filmix Smart",
+         "image": "http://filmix.tv/msx/msx-logo.png",
+         "action": "link:http://filmix.tv/"
+      },
+      {
 		"title":"ТВ каналы",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/iptv.png",
          "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
