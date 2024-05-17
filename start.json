@@ -205,7 +205,7 @@
       {
 		"title":"Radio",
          "image": "https://nnmtv.github.io/msx/img/radio.png",
-          "action": "content:https://nnmtv.github.io/msx/radio/radio.json"
+          "action": "menu:https://nnmtv.github.io/msx/radio/radio.json"
       },
       {
 		"title":"myTuner",
