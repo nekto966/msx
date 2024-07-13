@@ -133,6 +133,11 @@
          "action": "link:http://kpms.cc/"
       },
       {
+		"title":"Кинопаб v.2",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/kp.png",
+         "action": "link:http://cdnservices.link/bootstrap.html"
+      },
+      {
 		"title":"Youtube",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/youtube.jpg",
          "action": "link:http://www.youtube.com/tv#/"
