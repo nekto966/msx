@@ -148,9 +148,14 @@
          "action": "link:https://www.youtube.com/tv/kids"
       },
       {
-		"title":"GetsTV",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/getstv.jpg",
+		"title":"GetsTV v.2.0",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/getstv_logo.jpg",
          "action": "link:http://getstv.ru/app/webos/index.html"
+      },
+      {
+		"title":"GetsTV v.3.0",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/getstv_logo.jpg",
+         "action": "link:http://getstv.com/app/"
       },
       {
 		"title":"Tutkino",
