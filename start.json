@@ -23,6 +23,11 @@
           "action": "link:http://lampa.mx/"
       },
       {
+		"title":"Lampa (SkazTV)",
+         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/lampa.jpg",
+          "action": "link:http://lampa.skaz.tv/"
+      },
+      {
 		"title":"Atodo",
          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
